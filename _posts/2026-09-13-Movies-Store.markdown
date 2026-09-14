@@ -12,7 +12,7 @@ A web application that allows users to access information about movies and place
 
 ### General Pages
 When a user first opens the website, they are greeted with the homepage.\
-![The home page]({{"/assets/Screenshot2026-09-14121347.png" | absolute_url }}){: width="300" }
+![The home page]({{"/assets/Screenshot2026-09-14121347.png" | relative_url }}){: width="300" }
 
 Theres an about page that has information about the store so they can learn more about the app and its purpose.\
 ![The about page](/assets/Screenshot2026-09-14121347.png){: width="300" }
