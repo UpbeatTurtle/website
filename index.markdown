@@ -10,7 +10,7 @@ Hi! I'm Alex Sareh and I'm an undergraduate student at Georgia Tech, pursuing a 
 Be sure to checkout the projects page!
 
 Some pictures of me:
-![Me as a butterfly](./assets/IMG_7930.jpeg)
+![Me as a butterfly](./assets/IMG_7930.jpeg){: width="300" }
 
 
 (This website was made with jekyll)
