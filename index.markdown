@@ -5,8 +5,12 @@ title: About me
 layout: page
 #format for links is [jekyllrb.com](https://jekyllrb.com/)
 ---
-Hi! I'm an undergraduate student at Georgia Tech, pursuing a Bachelor of Science in Computer Engineering with concentrations in Computing Hardware & Emerging Architectures and Systems & Architecture.
+Hi! I'm Alex Sareh and I'm an undergraduate student at Georgia Tech, pursuing a Bachelor of Science in Computer Engineering with concentrations in Computing Hardware & Emerging Architectures and Systems & Architecture.
 
-Checkout the projects page 
+Be sure to checkout the projects page!
 
-This website is still a WIP
+Some pictures of me:
+![Me as a butterfly](./assets/IMG_7930.jpeg)
+
+
+(This website was made with jekyll)
