@@ -74,4 +74,4 @@ I innitialy planned for it to simply be a button that all users could click (log
 I innitialy implemented it with just a button press, but after using it, I realized that it wasn't clear that the report was actually processed. So, I made a page that confired that the report was made successfully and that admin would look at it.
 
 ## Video
-Check out the video demonstration [here](youtube.com)!
+Check out the video demonstration [here](https://youtube.com/)!
