@@ -12,45 +12,45 @@ A web application that allows users to access information about movies and place
 
 ### General Pages
 When a user first opens the website, they are greeted with the homepage.\
-![The home page](./assets/MovieStore/Features/Screenshot2026-09-14121347.png){: width="300" }
+![The home page](assets/Screenshot2026-09-14121347.png){: width="300" }
 
 Theres an about page that has information about the store so they can learn more about the app and its purpose.\
-![The about page](./assets/MovieStore/Features/Screenshot2026-09-14121347.png){: width="300" }
+![The about page](assets/Screenshot2026-09-14121347.png){: width="300" }
 
 The movies page lists the avaliable movies and they can be searched through using the search bar on top.\
-![The Movies Page](./assets/MovieStore/Features/Screenshot2026-09-14121401.png){: width="300" }
+![The Movies Page](./assets/Screenshot2026-09-14121401.png){: width="300" }
 
 Upon clicking on a movie, you get more information about it and are able to see user comments and the movie to your cart to purchase.\
-![The Avatar Page](./assets/MovieStore/Features/Screenshot2026-09-14121434.png){: width="300" }
+![The Avatar Page](./assets/Screenshot2026-09-14121434.png){: width="300" }
 
 ### User accounts
 Users can make accounts with the 'Sign Up' page and login using the login page. Creating an account allows users to make reviews and purchases.\
-![The Sign Up Page](./assets/MovieStore/Features/Screenshot2026-09-14124805.png){: width="300" }
-![The Login Page](./assets/MovieStore/Features/Screenshot2026-09-14124824.png){: width="300" }
+![The Sign Up Page](./assets/Screenshot2026-09-14124805.png){: width="300" }
+![The Login Page](./assets/Screenshot2026-09-14124824.png){: width="300" }
 
 ### Reviews
 Users can create, edit, and delete their own reviews. Users can also report other peoples reviews if they deem them to be inappropriate.\
 In the image below, we are logged in, so we see the create review box and we can also report other peoples reviews.\
-![Review Page](./assets/MovieStore/Features/Screenshot2026-09-14121503.png){: width="300" }
+![Review Page](./assets/Screenshot2026-09-14121503.png){: width="300" }
 
 Here we made a review and you can see how for our own review, we have options to delete and edit it.\
-![Added a review](./assets/MovieStore/Features/Screenshot2026-09-14121618.png){: width="300" }
+![Added a review](./assets/Screenshot2026-09-14121618.png){: width="300" }
 
 If we choose to edit the review, we get to this website where we can make changes.\
-![Edit a review](./assets/MovieStore/Features/Screenshot2026-09-14121659.png){: width="300" }
+![Edit a review](./assets/Screenshot2026-09-14121659.png){: width="300" }
 
 If we find an inappropriate review, we can report it so admin can take care of it (see Administration section). We don't want it to simply delete the review, because somone may abuse the system. Below is the dialog we see once we click "report".\
-![Reported review](./assets/MovieStore/Features/Screenshot2026-09-14121714.png){: width="300" }
+![Reported review](./assets/Screenshot2026-09-14121714.png){: width="300" }
 
 ### Purchases
 Users can add movies to their cart to purchase later.\
-![Cart](./assets/MovieStore/Features/Screenshot2026-09-14121951.png){: width="300" }
+![Cart](./assets/Screenshot2026-09-14121951.png){: width="300" }
 
 Page when you click 'Purchase':\
-![Completed order](./assets/MovieStore/Features/Screenshot2026-09-14122003.png){: width="300" }
+![Completed order](./assets/Screenshot2026-09-14122003.png){: width="300" }
 
 Order page to see your orders:\
-![Order pages](assets/MovieStore/Features/Screenshot2026-09-14122028.png){: width="300" }
+![Order pages](assets/Screenshot2026-09-14122028.png){: width="300" }
 
 ### Administration
 
