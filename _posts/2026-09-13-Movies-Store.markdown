@@ -6,12 +6,8 @@ categories: Software #actually the description
 #description: adfklja;dlkfj;
 #permalink: /projects/:title
 ---
-A web application that allows users to access information about movies and place orders to purchase them. Users are also able to list, create, edit, and delete movie reviews. Built using Django.
-
-Check it out [here](https://upbeatturtle.pythonanywhere.com/)!
-
+A web application that allows users to access information about movies and place orders to purchase them. Users are also able to list, create, edit, and delete movie reviews. Built using Django. Check it out [here](https://upbeatturtle.pythonanywhere.com/)!\
 ## Features
-
 ### General Pages
 When a user first opens the website, they are greeted with the homepage.\
 ![The home page]({{"/assets/Screenshot2026-09-14121347.png" | relative_url }}){: width="500" }
@@ -71,8 +67,8 @@ After installing the necessary programs, I started by implementing a base templa
 
 Then, I began to implement the database by implementing user signup and login, letting users create, edit, and delete reviews, and allowing users to purchase movies and access order pages.
 
-The "report reviews" features is not outlined in the process featured in the texbook, so I implemented it from scratch. I had many possible choices on how to implement it.\
-I innitialy planned for it to simply be a button that all users could click (logged in or not), but I realized that a non-user may abuse the system, so I left the reporting functionality only to users.\
+The "report reviews" features is not outlined in the process featured in the texbook, so I implemented it from scratch. I had many possible choices on how to implement it.
+I innitialy planned for it to simply be a button that all users could click (logged in or not), but I realized that a non-user may abuse the system, so I left the reporting functionality only to users.
 I innitialy implemented it with just a button press, but after using it, I realized that it wasn't clear that the report was actually processed. So, I made a page that confired that the report was made successfully and that admin would look at it.
 
 ## Video
