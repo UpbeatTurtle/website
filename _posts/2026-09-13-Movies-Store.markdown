@@ -8,17 +8,17 @@ categories: Software #actually the description
 ---
 A web application that allows users to access information about movies and place orders to purchase them. Users are also able to list, create, edit, and delete movie reviews. Built using Django.
 
-## Features\
+## Features
 
 ### General Pages
 When a user first opens the website, they are greeted with the homepage.\
-![The home page](assets/Screenshot2026-09-14121347.png){: width="300" }
+![The home page](/assets/Screenshot2026-09-14121347.png){: width="300" }
 
 Theres an about page that has information about the store so they can learn more about the app and its purpose.\
-![The about page](assets/Screenshot2026-09-14121347.png){: width="300" }
+![The about page](/assets/Screenshot2026-09-14121347.png){: width="300" }
 
 The movies page lists the avaliable movies and they can be searched through using the search bar on top.\
-![The Movies Page](./assets/Screenshot2026-09-14121401.png){: width="300" }
+![The Movies Page](/assets/Screenshot2026-09-14121401.png){: width="300" }
 
 Upon clicking on a movie, you get more information about it and are able to see user comments and the movie to your cart to purchase.\
 ![The Avatar Page](./assets/Screenshot2026-09-14121434.png){: width="300" }
