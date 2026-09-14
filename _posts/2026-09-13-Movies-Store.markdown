@@ -6,7 +6,9 @@ categories: Software #actually the description
 #description: adfklja;dlkfj;
 #permalink: /projects/:title
 ---
-A web application that allows users to access information about movies and place orders to purchase them. Users are also able to list, create, edit, and delete movie reviews. Built using Django. Check it out [here](https://upbeatturtle.pythonanywhere.com/)!
+A web application that allows users to access information about movies and place orders to purchase them. Users are also able to list, create, edit, and delete movie reviews. Built using Django. 
+
+Check it out [here](https://upbeatturtle.pythonanywhere.com/)!
 ## Features
 ### General Pages
 When a user first opens the website, they are greeted with the homepage.\
