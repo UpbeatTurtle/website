@@ -8,6 +8,8 @@ categories: Software #actually the description
 ---
 A web application that allows users to access information about movies and place orders to purchase them. Users are also able to list, create, edit, and delete movie reviews. Built using Django.
 
+Check it out [here](https://upbeatturtle.pythonanywhere.com/)!
+
 ## Features
 
 ### General Pages
@@ -74,4 +76,4 @@ I innitialy planned for it to simply be a button that all users could click (log
 I innitialy implemented it with just a button press, but after using it, I realized that it wasn't clear that the report was actually processed. So, I made a page that confired that the report was made successfully and that admin would look at it.
 
 ## Video
-Check out the video demonstration [here](https://youtube.com/)!
+Check out the video demonstration [here](https://youtu.be/-sHFOIDNreA)!
